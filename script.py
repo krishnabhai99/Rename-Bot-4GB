@@ -30,7 +30,7 @@ class script(object):
 
 If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upto Your Choice.
 
-<b>🛍 UPI ID:</b> <code>madflixofficial@axl</code> 
+<b>🛍 UPI ID:</b> <code>?</code> 
 
 <b>📸 Send Screenshot After Donation To Activate Your Premium Plan </b> """
 
@@ -50,9 +50,9 @@ If You Like My Bots & Projects, You Can 🎁 Donate Me Any Amount From 10 Rs Upt
 
 For Example :-
 
-<code>By @Madflix_Bots</code>
+<code>By @Animes_India_bot</code>
 
-💬 For Any Help Contact @MadflixOfficials
+💬 For Any Help Contact @Krishna99887722
 """
 
 
