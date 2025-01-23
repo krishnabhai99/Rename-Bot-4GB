@@ -15,7 +15,7 @@ STRING_SESSION = os.environ.get("STRING_SESSION", "")
 
 # Log & Force Channel Config
 FORCE_SUBS = os.environ.get("FORCE_SUBS", "t.me/Animes_India_bot")
-LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", ""))
+LOG_CHANNEL = int(os.environ.get("LOG_CHANNEL", "-1002306426485"))
 
 
 # Mongo DB Database Config
@@ -24,7 +24,7 @@ DATABASE_NAME = os.environ.get("DATABASE_NAME", "Animes_India_bot")
 
 
 # Other Variables Config
-START_PIC = os.environ.get("START_PIC", "https://graph.org/file/ad48ac09b1e6f30d2dae4.jpg")
+START_PIC = os.environ.get("START_PIC", "https://vault.pictures/p/9145308a26e74d2db9776054a6182979")
 
 
 
